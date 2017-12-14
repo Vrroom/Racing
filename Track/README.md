@@ -18,6 +18,10 @@ Scatter Plot of the points:
 
 ![alt text][tr2]
 
+[tr2]: https://github.com/Vrroom/Racing/blob/master/Track/plot.PNG "Image 1"
+
+[tr1]: https://github.com/Vrroom/Racing/blob/master/Track/original.PNG "Image 2" 
+
 To see the list of the points, run the code in MATLAB. The points are stored in the variable 'trackPoints'.
 
 Problems
@@ -25,3 +29,5 @@ Problems
 
 * As you can see the scatter plot is a mirror image of the original track
 * The order of points in the array is not the same as the order in which they appear as you traverse the road. Hence relying on the points to calculate the distance of the road is dangerous. 
+
+
